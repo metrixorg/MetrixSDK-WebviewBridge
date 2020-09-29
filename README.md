@@ -4,6 +4,7 @@
 
 ۱. مخزن متریکس را در فایل `build.gradle` مربوط به پروژه خود در قسمت `allprojects` اضافه کنید:
 
+<div dir="ltr">
 ```groovy
 allprojects {
     repositories {
@@ -13,6 +14,7 @@ allprojects {
     }
 }
 ```
+</div>
 
 ۲. وابستگی کتابخانه متریکس را در فایل `build.gradle` مربوط به اپلیکیشن خود اضافه کنید:
 
