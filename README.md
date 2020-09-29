@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # اضافه‌کردن کتابخانه متریکس به پروژه
 
 ۱. مخزن متریکس را در فایل `build.gradle` مربوط به پروژه خود در قسمت `allprojects` اضافه کنید:
@@ -331,3 +333,5 @@ Metrix.setDefaultTracker(trackerToken);
 ```javascript
 Metrix.setStore("store name");
 ```
+
+</div>
