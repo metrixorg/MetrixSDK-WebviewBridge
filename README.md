@@ -310,8 +310,7 @@ Metrix.setUserAttributionListener(attributionModel => {
 
 `attributionModel.acquisitionSource`: شبکه تبلیغاتی
 
-`attributionModel.attributionStatus`: وضعیت کاربر در کمپین را  
-مشخص می کند
+`attributionModel.attributionStatus`: وضعیت کاربر در کمپین را مشخص می کند
 
 مقدار `AttributionStatus` شامل یکی از موارد زیر است:
 
