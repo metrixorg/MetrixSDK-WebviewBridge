@@ -26,7 +26,7 @@ allprojects {
 dependencies {
     // ...
 
-    implementation 'ir.metrix:webview:1.0.0-beta2'
+    implementation 'ir.metrix:webview:1.0.0'
 }
 ```
 
